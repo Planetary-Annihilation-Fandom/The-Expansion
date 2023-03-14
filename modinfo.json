@@ -8,7 +8,7 @@
 	"priority": 100,
 	"icon": "https://raw.githubusercontent.com/Planetary-Annihilation-Fandom/The-Expansion/main/community_expansion300x300%402x.png",
 	"titansOnly": true,
-	"context": "server",
+	"context": "client",
 	"date": "2023-03-14",
 	"build": "116400",
 	"version": "1.0.0",
